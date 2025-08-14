@@ -1,4 +1,4 @@
-# Week 3 Assignment pn Python - Calculate Discount 
+# Week 3 Assignment on Python - Calculate Discount 
 
 ##  Description
 This is a simple Python program that calculates the final price of an item after applying a discount.  
